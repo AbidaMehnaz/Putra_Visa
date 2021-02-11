@@ -1,2 +1,2 @@
 # Putra_Visa
-Please go to the masters branch to view the full code. 
+Please go to the master branch to view the full code. 
